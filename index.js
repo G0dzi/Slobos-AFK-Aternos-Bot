@@ -1255,7 +1255,7 @@ function createBot() {
       isReconnecting = false;
 
       addLog(
-        `[Bot] [+] Successfully spawned on server! (Version: ${bot.version})`,
+        `[Bot] [+] Successfully spawned on server! (Version: ${bot.version} 2)`,
       );
       if (
         config.discord &&
